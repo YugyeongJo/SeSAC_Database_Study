@@ -36,5 +36,5 @@
 |01|SQL|[quest1_SQL_basic(Create_Select)](./docs/quest/quest1_SQL_basic(Create_Select).sql)|CREATE, SELECT 실습||
 |02|SQL|[quest2_SQL_basic(WHERE)](./docs/quest/quest2_SQL_basic(WHERE).sql)|SQL WHERE문 실습||
 |03|SQL|[quest3_SQL_basic(ORDERBY)](./docs/quest/quest3_SQL_basic(ORDERBY).sql)|SQL ORDER BY 실습||
-|04|SQL||||
-|05|SQL||||
+|04|SQL|[quest4_SQL_basic(MATH)](./docs/quest/quest4_SQL_basic(MATH).sql)|SQL MATH관련 실습||
+|05|SQL|[quest5_SQL_basic(TOTAL)](./docs/quest/quest5_SQL_basic(TOTAL).sql)|SQL 종합예제 실습||
