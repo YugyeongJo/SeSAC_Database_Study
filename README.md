@@ -29,7 +29,7 @@
 |16|SQL_Basic|[16_SQL_Basic(BuiltIn_MATH)](./docs/16_SQL_Basic(BuiltIn_MATH).sql)|SQL 수학관련 내장함수 학습||
 
 
-### QUEST
+### 📈 QUEST
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
