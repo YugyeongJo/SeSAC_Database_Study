@@ -7,6 +7,42 @@
 |<p align="center"><img alt="vscode" src="./icons/MySQL-Dark.svg" width="48"></p>| 
 |<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">|
 
+## 📂 Directory Structure
+
+```plaintext
+SeSAC_Database_Study/
+├── README.md 
+├── icons/
+│   └── MySQL-Dark.svg
+├── docs/
+│   ├── 01_SQL_Basic(DDL_DML).sql
+│   ├── 02_SQL_Basic(WHERE).sql
+│   ├── 03_SQL_Basic(Order_By).sql
+│   ├── 04_SQL_Basic(Aggregate_Function).sql
+│   ├── 05_SQL_Basic(Group_By).sql
+│   ├── 06_SQL_Basic(DISTINCT).sql
+│   ├── 07_SQL_Basic(UPDATE).sql
+│   ├── 08_SQL_Basic(DELETE).sql
+│   ├── 09_SQL_Basic(ALTER).sql
+│   ├── 10_SQL_Basic(PrimaryKey).sql
+│   ├── 11_SQL_Basic(ForeignKey).sql
+│   ├── 12_SQL_Basic(NULL).sql
+│   ├── 13_SQL_Basic(JOIN).sql
+│   ├── 14_SQL_Basic(BuiltIn_CHAR).sql
+│   ├── 15_SQL_Basic(BuiltIn_DATE).sql
+│   ├── 16_SQL_Basic(BuiltIn_MATH).sql
+│   ├── ERD.png
+│   └── quest/
+│       ├── quest1_SQL_basic(Create_Select).sql
+│       ├── quest2_SQL_basic(WHERE).sql
+│       ├── quest3_SQL_basic(ORDERBY).sql
+│       ├── quest4_SQL_basic(MATH).sql
+│       └── quest5_SQL_basic(TOTAL).sql
+└── ...
+```
+
+## 📊 ERD Diagram
+![ERD Diagram](./docs/ERD.png)
 
 ## 💻 Database Basic File
 
@@ -28,7 +64,6 @@
 |14|SQL_Basic|[14_SQL_Basic(BuiltIn_CHAR)](./docs/14_SQL_Basic(BuiltIn_CHAR).sql)|SQL 문자열관련 내장함수 학습||
 |15|SQL_Basic|[15_SQL_Basic(BuiltIn_DATE)](./docs/15_SQL_Basic(BuiltIn_DATE).sql)|SQL 날짜관련 내장함수 학습||
 |16|SQL_Basic|[16_SQL_Basic(BuiltIn_MATH)](./docs/16_SQL_Basic(BuiltIn_MATH).sql)|SQL 수학관련 내장함수 학습||
-
 
 ### 📈 QUEST
 
