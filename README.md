@@ -2,8 +2,10 @@
 
 ## 📖 Introduction
 
-SeSAC Database Study 레포지토리는 MySQL을 사용하여 SQL을 학습한 내용을 담고 있습니다.<br>
-데이터 정의 언어(DDL), 데이터 조작 언어(DML), 다양한 SQL 함수 및 명령어와 같은 기본적인 SQL 개념을 다룹니다.<br>
+```
+SeSAC Database Study 레포지토리는 MySQL을 사용하여 SQL을 학습한 내용을 담고 있습니다.
+데이터 정의 언어(DDL), 데이터 조작 언어(DML), 다양한 SQL 함수 및 명령어와 같은 기본적인 SQL 개념을 다룹니다.
+```
 
 ## 🛠️ Tech Stack
 
