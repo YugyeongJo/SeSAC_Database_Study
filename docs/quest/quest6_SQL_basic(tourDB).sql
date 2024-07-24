@@ -14,13 +14,29 @@ FROM tourTable;
 SELECT DISTINCT 시도명
 FROM tourTable;
 
+SELECT 시도명
+FROM tourTable
+GROUP BY 시도명;
+
+SELECT DISTINCT SUBSTR(주소, 1, 2) '시도명'
+FROM tourTable;
+
 -- 문제2) 경기도의 관광지 정보 검색 - 2가지 방식으로 작성할 것
 SELECT *
 FROM tourTable
 WHERE 시도명 = '경기도';
 
+SELECT *
+FROM tourTable
+WHERE 주소 LIKE '경기%';
+
+SELECT *
+FROM tourTable
+WHERE SUBSTR(주소, 1, 2) = '경기'
+;
+
 -- 문제3) 쇼핑 분야의 관광지 수 계산
-SELECT COUNT(*)
+SELECT COUNT(*) 쇼핑
 FROM tourTable
 WHERE 중분류 = '쇼핑';
 
