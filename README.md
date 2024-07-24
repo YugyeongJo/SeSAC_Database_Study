@@ -43,7 +43,8 @@ SeSAC_Database_Study/
 │       ├── quest2_SQL_basic(WHERE).sql
 │       ├── quest3_SQL_basic(ORDERBY).sql
 │       ├── quest4_SQL_basic(MATH).sql
-│       └── quest5_SQL_basic(TOTAL).sql
+│       ├── quest5_SQL_basic(TOTAL).sql
+│       └── quest6_SQL_basic(tourDB).sql
 └── ...
 ```
 
@@ -88,6 +89,7 @@ SeSAC_Database_Study/
 |03|SQL|[quest3_SQL_basic(ORDERBY)](./docs/quest/quest3_SQL_basic(ORDERBY).sql)|SQL ORDER BY 실습||
 |04|SQL|[quest4_SQL_basic(MATH)](./docs/quest/quest4_SQL_basic(MATH).sql)|SQL MATH관련 실습||
 |05|SQL|[quest5_SQL_basic(TOTAL)](./docs/quest/quest5_SQL_basic(TOTAL).sql)|SQL 종합예제 실습||
+|06|SQL|[quest6_SQL_basic(tourDB)](./docs/quest/quest6_SQL_basic(tourDB).sql)|관광데이터 포털 DATA를 활용한 실습|
 </details>
 
 
