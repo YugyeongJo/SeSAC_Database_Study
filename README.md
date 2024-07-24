@@ -50,15 +50,13 @@ SeSAC_Database_Study/
 ```
 
 ## 📊 ERD Diagram
-```
+
 ![BookDB ERD Diagram](./docs/BookDB_ERD.png)
-```
-```
+
 ![StudentDB ERD Diagram](./docs/StudentDB_ERD.png)
-```
-```
+
 ![SalesDB ERD Diagram](./docs/SalesDB_ERD.png)
-```
+
 
 ## 💻 Database File
 
