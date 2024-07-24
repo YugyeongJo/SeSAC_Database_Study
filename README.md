@@ -79,7 +79,7 @@ SeSAC_Database_Study/
 ### 📈 QUEST
 
 <details open>
-<summary></summary>
+<summary>Database Basic QUEST</summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
