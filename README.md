@@ -51,7 +51,10 @@ SeSAC_Database_Study/
 ![BookDB ERD Diagram](./docs/BookDB_ERD.png)
 ![StudentDB ERD Diagram](./docs/StudentDB_ERD.png)
 
-## 💻 Database Basic File
+## 💻 Database File
+
+<details open>
+<summary><h1>Database Basic File</h1></summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
@@ -71,8 +74,12 @@ SeSAC_Database_Study/
 |14|SQL_Basic|[14_SQL_Basic(BuiltIn_CHAR)](./docs/14_SQL_Basic(BuiltIn_CHAR).sql)|SQL 문자열관련 내장함수 학습||
 |15|SQL_Basic|[15_SQL_Basic(BuiltIn_DATE)](./docs/15_SQL_Basic(BuiltIn_DATE).sql)|SQL 날짜관련 내장함수 학습||
 |16|SQL_Basic|[16_SQL_Basic(BuiltIn_MATH)](./docs/16_SQL_Basic(BuiltIn_MATH).sql)|SQL 수학관련 내장함수 학습||
+</details>
 
 ### 📈 QUEST
+
+<details open>
+<summary><h1>QUEST</h1></summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
@@ -81,5 +88,7 @@ SeSAC_Database_Study/
 |03|SQL|[quest3_SQL_basic(ORDERBY)](./docs/quest/quest3_SQL_basic(ORDERBY).sql)|SQL ORDER BY 실습||
 |04|SQL|[quest4_SQL_basic(MATH)](./docs/quest/quest4_SQL_basic(MATH).sql)|SQL MATH관련 실습||
 |05|SQL|[quest5_SQL_basic(TOTAL)](./docs/quest/quest5_SQL_basic(TOTAL).sql)|SQL 종합예제 실습||
+</details>
+
 
 ## 📝참고자료
