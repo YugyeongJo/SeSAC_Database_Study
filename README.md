@@ -54,7 +54,7 @@ SeSAC_Database_Study/
 ## 💻 Database File
 
 <details open>
-<summary><h1>Database Basic File</h1></summary>
+<summary>Database Basic File</summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
@@ -79,7 +79,7 @@ SeSAC_Database_Study/
 ### 📈 QUEST
 
 <details open>
-<summary><h1>QUEST</h1></summary>
+<summary></summary>
 
 |번호|구분|파일|설명|비고|
 |--|--|--|--|--|
