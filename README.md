@@ -18,6 +18,7 @@ Python 언어를 사용하여 Database와의 연결 및 각종 적용을 담고 
 ```plaintext
 SeSAC_Database_Study/
 ├── README.md 
+├── .env
 ├── icons/
 │   └── MySQL-Dark.svg
 ├── docs/
@@ -48,7 +49,8 @@ SeSAC_Database_Study/
 │       ├── quest5_SQL_basic(TOTAL).sql
 │       ├── quest6_SQL_basic(tourDB).sql
 │       ├── quest7_SQL_basic(LevelUP).sql
-│       └── quest8_SQL_basic(BuiltInFunction).sql
+│       ├── quest8_SQL_basic(BuiltInFunction).sql
+│       └── quest9_SQL_connection.py
 └── connect_with_python/
     ├── connection_select.py
     ├── connection_insert.py
