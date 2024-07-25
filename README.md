@@ -55,7 +55,9 @@ SeSAC_Database_Study/
     ├── connection_select.py
     ├── connection_insert.py
     ├── connection_update.py
-    └── connection_delete.py
+    ├── connection_delete.py
+    └── connection_parameters.py
+
 ```
 
 ## 📊 ERD Diagram
@@ -99,6 +101,7 @@ SeSAC_Database_Study/
 |02|Connection|[connection_insert.py](./connect_with_python/connection_insert.py)|데이터베이스 연결 및 추가 학습||
 |03|Connection|[connection_update.py](./connect_with_python/connection_update.py)|데이터베이스 연결 학습 및 수정 학습||
 |04|Connection|[connection_delete.py](./connect_with_python/connection_delete.py)|데이터베이스 연결 학습 및 삭제 학습||
+|05||[connection_parameters.py](./connect_with_python/connection_parameters.py)|데이터베이스 매개변수 활용 학습||
 
 </details>
 
@@ -117,8 +120,8 @@ SeSAC_Database_Study/
 |06|SQL|[quest6_SQL_basic(tourDB)](./docs/quest/quest6_SQL_basic(tourDB).sql)|관광데이터 포털 DATA를 활용한 실습|
 |07|SQL|[quest7_SQL_basic(LevelUP)](./docs/quest/quest7_SQL_basic(LevelUP).sql)|SQL 종합예제 실습||
 |08|SQL|[quest8_SQL_basic(BuiltInFunction).sql](./docs/quest/quest8_SQL_basic(BuiltInFunction).sql)|SQL 내장함수 실습||
+|09|SQL|[quest9_SQL_connection.py](./docs/quest/quest9_SQL_connection.py)|Python을 활용한 Database 연결 실습||
 </details>
-
 
 ## 📝참고자료
 
