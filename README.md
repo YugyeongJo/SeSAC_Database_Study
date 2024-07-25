@@ -103,7 +103,7 @@ SeSAC_Database_Study/
 |02|Connection|[connection_insert.py](./connect_with_python/connection_insert.py)|데이터베이스 연결 및 추가 학습||
 |03|Connection|[connection_update.py](./connect_with_python/connection_update.py)|데이터베이스 연결 학습 및 수정 학습||
 |04|Connection|[connection_delete.py](./connect_with_python/connection_delete.py)|데이터베이스 연결 학습 및 삭제 학습||
-|05||[connection_parameters.py](./connect_with_python/connection_parameters.py)|데이터베이스 매개변수 활용 학습||
+|05|Connection|[connection_parameters.py](./connect_with_python/connection_parameters.py)|데이터베이스 매개변수 활용 학습||
 
 </details>
 
