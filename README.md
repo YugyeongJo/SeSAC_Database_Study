@@ -39,6 +39,7 @@ SeSAC_Database_Study/
 │   ├── 16_SQL_Basic(BuiltIn_MATH).sql
 │   ├── BookDB_ERD.png
 |   ├── StudentDB_ERD.png
+|   ├── ShopDB_ERD.png
 │   └── quest/
 │       ├── quest1_SQL_basic(Create_Select).sql
 │       ├── quest2_SQL_basic(WHERE).sql
@@ -62,6 +63,8 @@ SeSAC_Database_Study/
 ![StudentDB ERD Diagram](./docs/StudentDB_ERD.png)
 
 ![SalesDB ERD Diagram](./docs/SalesDB_ERD.png)
+
+![ShopDB ERD Diagram](./docs/ShopDB_ERD.png)
 
 
 ## 💻 Database File
