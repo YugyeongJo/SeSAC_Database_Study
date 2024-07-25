@@ -47,7 +47,11 @@ SeSAC_Database_Study/
 │       ├── quest6_SQL_basic(tourDB).sql
 │       ├── quest7_SQL_basic(LevelUP).sql
 │       └── quest8_SQL_basic(BuiltInFunction).sql
-└── ...
+└── connect_with_python/
+    ├── connection_select.py
+    ├── connection_insert.py
+    ├── connection_update.py
+    └── connection_delete.py
 ```
 
 ## 📊 ERD Diagram
@@ -84,6 +88,18 @@ SeSAC_Database_Study/
 |16|SQL_Basic|[16_SQL_Basic(BuiltIn_MATH)](./docs/16_SQL_Basic(BuiltIn_MATH).sql)|SQL 수학관련 내장함수 학습||
 </details>
 
+<details open>
+<summary>Database Connection File</summary>
+
+|번호|구분|파일|설명|비고|
+|--|--|--|--|--|
+|01|Connection|[connection_select.py](./connect_with_python/connection_select.py)|데이터베이스 연결 및 출력 학습||
+|02|Connection|[connection_insert.py](./connect_with_python/connection_insert.py)|데이터베이스 연결 및 추가 학습||
+|03|Connection|[connection_update.py](./connect_with_python/connection_update.py)|데이터베이스 연결 학습 및 수정 학습||
+|04|Connection|[connection_delete.py](./connect_with_python/connection_delete.py)|데이터베이스 연결 학습 및 삭제 학습||
+
+</details>
+
 ### 📈 QUEST
 
 <details open>
@@ -103,3 +119,8 @@ SeSAC_Database_Study/
 
 
 ## 📝참고자료
+
+## 👩‍💻설치모듈
+```
+~$ pip install PyMySQL
+```
