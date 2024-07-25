@@ -51,7 +51,8 @@ SeSAC_Database_Study/
 │       ├── quest7_SQL_basic(LevelUP).sql
 │       ├── quest8_SQL_basic(BuiltInFunction).sql
 │       ├── quest9_SQL_connection_01.py
-│       └── quest10_SQL_connection_02.py
+│       ├── quest10_SQL_connection_02.py
+│       └── quest11_SQL_PMP.py
 └── connect_with_python/
     ├── connection_select.py
     ├── connection_insert.py
@@ -123,6 +124,7 @@ SeSAC_Database_Study/
 |08|SQL|[quest8_SQL_basic(BuiltInFunction).sql](./docs/quest/quest8_SQL_basic(BuiltInFunction).sql)|SQL 내장함수 실습||
 |09|SQL|[quest9_SQL_connection.py](./docs/quest/quest9_SQL_connection.py)|Python을 활용한 Database 연결 실습|가격이 1,000원 ~ 2,000원 사이 제품 검색|
 |10|SQL|[quest10_SQL_connection _02.py](./docs/quest/quest10_SQL_connection_02.py)|Python을 활용한 Database 연결 실습2|가격이 2,000원 미만인 제품들의 평균가와 수량의 합을 계산|
+|11|SQL|[quest11_SQL_PMP.py](./docs/quest/quest11_SQL_PMP.py)|재고 관리 시스템 만들기 실습|||
 </details>
 
 ## 📝참고자료
