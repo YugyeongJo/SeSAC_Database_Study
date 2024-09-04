@@ -6,6 +6,16 @@ SeSAC Database Study 레포지토리는 MySQL을 사용하여 SQL을 학습한 �
 데이터 정의 언어(DDL), 데이터 조작 언어(DML), 다양한 SQL 함수 및 명령어와 같은 기본적인 SQL 개념을 다룹니다.
 Python 언어를 사용하여 Database와의 연결 및 각종 적용을 담고 있습니다. 
 
+
+### 학습 내용
+ * 데이터베이스 기본 문법 학습
+   * SQL의 DDL, DML, WHERE, ORDER BY, 집계함수, GROUP BY, DISTINCT, UPDATE, DELETE, ALTER, 기본키, 외래키, NULL, JOIN, 문자열/날짜/수학 관련 내장함수 등을 학습.
+ * 데이터베이스 연결 학습
+   * Python을 활용한 데이터베이스 연결, 선택, 삽입, 수정, 삭제, 매개변수 활용 방법 학습.
+ * 실습 과제
+   * CREATE, SELECT, WHERE, ORDER BY, 수학 함수, 종합예제 등 다양한 SQL 실습 및 Python을 활용한 데이터베이스 연결 실습 진행.
+
+
 ## 🛠️ 기술 스택
 
 |<center>MySQL</center>|
